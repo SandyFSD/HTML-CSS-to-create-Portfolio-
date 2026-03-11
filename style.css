@@ -181,13 +181,13 @@ body{
 
 .source{
     display: flex;
-    justify-content: space-evenly;
-    width: 1000px;
+    justify-content: space-around;
+    width: 1100px;
 }
 
 .over{
     display: flex;
-    width: 100px;
+    width: 200px;
 }
 
 .done{
@@ -210,3 +210,4 @@ body{
     color: black;
     text-decoration: none;;
 }
+
